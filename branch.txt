@@ -1,4 +1,4 @@
 brach1
 fix bug 102
 learn git @20190731
-add new feature2
+add new feature1 and feature2
